@@ -15,7 +15,7 @@ Copyright (C) <year> <copyright holders>
 翻訳されたライセンスについても、開発者は適宜文面を変更して構いませんが、ライセンス名を絶対に変更してください。
 
 この部分(##で囲われた範囲)は、開発者が使用する場合削除すべきです。
-開発者が使用する場合、<Application Name>及び、<Developer Name>、<year>、<copyright holders>を適宜変更してください。
+開発者が使用する場合、<Application Name>、<Developer Name>、<year>、<copyright holders>を適宜変更してください。
 ライセンスを広く知らせるために公開するのであれば削除しないでください。
 ##
 
